@@ -37,6 +37,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/>
+  <img src="https://tse1.mm.bing.net/th/id/OIP.uOlrFi1pBWUofOrOmba8DgHaHk?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="48" alt="VS Code"/>
+  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="48" alt="VS Code"/>
+  
   
 
  
